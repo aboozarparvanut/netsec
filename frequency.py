@@ -5,7 +5,7 @@ import operator
 import re
 from collections import Counter
 
-__author__ = "Abouzar Parvan <abzcoding@gmail.com>"
+__author__ = "Abz <abzcoding@gmail.com>"
 
 
 class Alephba(object):
